@@ -43,7 +43,7 @@ with rep.new_layer():
      
      
     rep.randomizer.register(randomizeSun) 
-    rep.randomizer.register(randomizeRedLight)
+    rep.randomizer.register(randomizeRedLight) 
     rep.randomizer.register(randomizeYellowLight)
     rep.randomizer.register(randomizeGreenLight)
 
@@ -68,6 +68,6 @@ with rep.new_layer():
         rep.randomizer.randomizeYellowLight()
         rep.randomizer.randomizeGreenLight()
  
-    print("Script Ran!")
+    print("Script Ran!") 
 
 
