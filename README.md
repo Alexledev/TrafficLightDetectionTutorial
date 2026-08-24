@@ -7,4 +7,7 @@ These guides assume you have already installed Visual Studio Code and have some 
 In Part 1, we'll cover the process of generating synthetic training data using Isaac Sim Replicator. This includes preparing the simulation environment, configuring Replicator, setting up automatic annotations, and fine-tuning the data generation process to produce a suitable dataset for training our traffic light detection model.
 
 ### Part 1
-- Repository contains an Isaac Sim scene and the replicator code. 
+- Repository contains an Isaac Sim scene and the replicator code.
+
+### Part 2
+- Repository contains full model training pipeline notebooks.
