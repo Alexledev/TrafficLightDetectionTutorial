@@ -1,1 +1,6 @@
 ReplicatorOutput/*
+PrepData/*
+TrainData/*
+model.pth
+model.onnx
+model.onnx.data
